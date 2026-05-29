@@ -13,8 +13,11 @@ curated list of octra wallet tools. verify before using
 ## dev tools
 
 | name                                             | type       | dapps | source      | status      |
-| ------------------------------------------------ | ---------- | ----: | ----------- | ----------- |
-| [0xio sdk](https://github.com/0xio-xyz/0xio-sdk) | wallet sdk |   yes | open source | third-party |
+| ------------------------------------------------ | ---------- | ----- | ----------- | ----------- |
+| [0xio sdk](https://github.com/0xio-xyz/0xio-sdk) | wallet sdk | yes   | open source | third-party |
+| [devnet faucet](https://t.me/octradevbot)        | faucet     | -     | partial     | third-party |
+
+
 
 ## explorer
 
