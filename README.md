@@ -9,15 +9,16 @@ curated list of octra wallet tools. verify before using
 | [octra webcli](https://github.com/octra-labs/webcli)                                                 | web wallet / client      |     no  | open source                  | official    |
 | [0xio wallet](https://chromewebstore.google.com/detail/0xio-wallet/anknhjilldkeelailocijnfibefmepcc) | browser extension wallet |     yes | partial                      | third-party |
 | [octra android wallet](https://github.com/Xyntera/Octra-Wallet)                                      | mobile wallet            |     yes | open source                  | third-party |
+| [qiubit-wallet](https://github.com/QiubitLabs/Qiubit-extension)                                      | browser extension wallet |     yes | open source                  | third-party |
+
 
 ## dev tools
 
 | name                                             | type       | dapps | source      | status      |
 | ------------------------------------------------ | ---------- | ----- | ----------- | ----------- |
 | [0xio sdk](https://github.com/0xio-xyz/0xio-sdk) | wallet sdk | yes   | open source | third-party |
+| [qiubit sdk](https://github.com/QiubitLabs/Qiubit-sdk) | sdk   | -           | partial     | third-party |
 | [devnet faucet](https://t.me/octradevbot)        | faucet     | -     | partial     | third-party |
-
-
 
 ## explorer
 
